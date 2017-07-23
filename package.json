@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "week 12 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LerithaPride1/Bamazon.git"
+  },
+  "author": "Leritha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LerithaPride1/Bamazon/issues"
+  },
+  "homepage": "https://github.com/LerithaPride1/Bamazon#readme"
+}
